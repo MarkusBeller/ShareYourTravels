@@ -1,0 +1,54 @@
+body{
+    margin: 20px;
+}
+
+#title {
+    text-align: center;
+n}
+
+#main_title {
+    text-align: center;
+}
+
+#initial_text{
+    text-align: left;
+    margin-left: 210px;
+    margin-right: 210px;
+}
+
+#buttons{
+    position: absolute;
+    right: 15px;
+    margin-top:30px;
+
+}
+
+#upload_picture{
+    border: none;
+    color: Black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+}
+
+#general_information{
+    font-size: 24px;
+}
+
+table{
+    position: fixed;
+    width:30%;
+    border-collapse: collapse;
+}
+
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th{
+    border: none;
+    border-collapse: collapse;
+}
